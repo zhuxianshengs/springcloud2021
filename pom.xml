@@ -17,6 +17,10 @@
         <module>cloud-customer-openfeign-order80</module>
         <module>cloud-provider-hystrix-payment8001</module>
         <module>cloud-consumer-openfeign-hystrix-order80</module>
+        <module>cloud-config-center-3344</module>
+        <module>cloud-config-enter-3355</module>
+        <module>cloud-config-enter-3366</module>
+        <module>cloud-stream-rabbitmq-provider8801</module>
     </modules>
 
     <packaging>pom</packaging>
